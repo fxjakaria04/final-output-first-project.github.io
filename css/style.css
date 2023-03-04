@@ -1,0 +1,231 @@
+* {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.header {
+    /* background-image:url(../Images/bg-1.png); */
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height:888px;
+}
+.logo {
+    width: 100px;
+    border-radius: 50%;
+}
+.bold {
+    font-weight: bold;
+}
+.kala {
+    color: black;
+}
+.gap {
+    margin-right: 60px;
+}
+.sada {
+    color: white;
+}
+
+.sada:hover {
+    color: yellow;
+}
+.soto {
+    width: 400px;
+}
+.mb-100 {
+    margin-top: 250px;
+}
+.heading {
+    font-size: 70px;
+    color: black;
+    font-weight:bolder;
+}
+.paragraph {
+    color: black;
+    font-size: 25px;
+}
+
+.paragraphi {
+    color: black;
+    font-size: 25px;
+    text-decoration: underline;
+}
+.batom {
+    border-radius: 50px;
+    font-size: 22px;
+    margin-right: 30px; ;
+    margin-bottom: 5px;
+}
+
+.part-2 {
+    margin-top: 220px;
+}
+.comunity {
+    font-size: 20px;
+    border-radius: 30px;
+    margin-top: 50px;
+}
+
+.baki {
+    background-image: url(../Images/mid-background.png);
+    background-size: 700px;
+    background-repeat: no-repeat;
+}
+.screenshot-1 {
+    width: 380px;
+    margin-bottom: 100px;
+    margin-top: 100px;
+    margin-left: 120px;
+}
+
+.section-B {
+    margin-top: 100px;
+}
+.mota {
+    font-weight: bold;
+}
+.paragraph-b {
+    font-size: 18px;
+    line-height: 140%;
+}
+.mata {
+    text-align: center;
+    font-weight: bold;
+}
+.section-c {
+    /* background-image: url(../Images/sec-3.png);
+    background-repeat: no-repeat;
+    background-size: 100%; */
+}
+.soto-sobi {
+    width: 40px;
+    margin: 0px auto;
+    text-align: center;
+}
+.card {
+    border-radius:20px ;
+    height: 376px;
+    margin: 100px 0px 200px 0px;
+}
+.sotob {
+    width: 500px;
+}
+
+.dx {
+    margin-left: 40px; rgb(3, 142, 255);
+    font-size: 25px;
+    line-height: 100%;
+}
+
+.robi {
+    margin-top: 100px;
+}
+.aro-soto {
+    font-size: 20px;
+}
+.litht {
+    font-weight: lighter;
+    font-size: 20px;
+}
+.batam {
+    border-radius: 30px;
+    font-size: 20px;
+
+}
+.section-d {
+    margin-bottom: 100px;
+}
+.section-e {
+    /* background-image: url(../Images/JOINT.png);
+    background-size: 100%;
+    background-repeat: no-repeat; */
+    padding-bottom: 144px;
+}
+.img-1 {
+    margin-left: 110px;
+    margin-bottom: 140px;
+}
+.img-2 {
+    margin-left: 80px;
+    margin: 0px auto;
+}
+
+.auto {
+    margin: 0px auto;
+    text-align: center;
+    text-align: right;
+    margin-top: 45px;
+}
+.m-1 {
+    text-align: right;
+}
+.m-2 {
+    text-align: left;
+    
+}
+.auto2 {
+    
+    text-align: center;
+}
+.img-1-d {
+    margin-left: 110px;
+    margin-bottom: 100px;
+}
+.tui-mota {
+    margin-bottom: 100px;
+}
+. {
+    margin-bottom: 1500px;
+}
+.futar {
+    margin-top: 180px;
+}
+.social-media {
+    width: 45px;
+    margin-left: 50px;
+}
+.underline {
+    text-decoration: underline;
+}
+
+.wave {
+    position: absolute;
+
+}
+.mora-color {
+    background-color:#5f5f5f;
+    padding-bottom: 2px;
+}
+
+.last-sec {
+    position: relative;
+}
+.section-ab {
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+.likhata {
+    margin-bottom: 50px;
+    font-size: 50px;
+    font-weight: bold;
+}
+.header {
+    position: relative;
+}
+
+.nb {
+    display: none;
+}
+.icon {
+    width: 60px;
+    border-radius: 50%;
+}
+.vagal {
+    width: 250px;
+}
+.m-1 {
+    text-align: center;
+}
+
+.m-2 {
+    
+}
